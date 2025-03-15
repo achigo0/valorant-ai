@@ -1,4 +1,5 @@
-🚀 Valorant AI Model - YOLOv8 Object Detection Model – Trained on 5500+ Custom Images
+<h2>🚀 Valorant AI Model - YOLOv8 Object Detection Model – Trained on 5500+ Custom Images </h2>
+
 This repository contains a custom-trained YOLOv8 object detection model, built specifically for high-precision detection tasks in real-time environments.
 
 ✅ Over 5,500 labeled images used for training
