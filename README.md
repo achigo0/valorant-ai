@@ -2,7 +2,7 @@
 <h2>Trained on 5500+ Custom Images </h2>
 
 This repository contains a custom-trained YOLOv8 object detection model, built specifically for high-precision detection tasks in real-time environments.
-🔍 Highlights:
+<p>🔍 Highlights:
 Trained on 5,500+ labeled images
 Includes custom datasets such as:
 Valorant characters
@@ -16,7 +16,7 @@ Python (PyTorch)
 Google Colab for training
 📸 Real-Time Testing:
 Model was tested live using a custom-built application. Results showed significantly better performance than publicly available models, especially in identifying in-game actions and character details.
-
+</p>
 ✅ Over 5,500 labeled images used for training
 🎯 Achieved remarkable accuracy across multiple custom classes
 ⚡ Optimized for real-time inference performance
