@@ -1,6 +1,7 @@
 <html>
     <h1>🚀 Valorant-AI | Real-time Object Detection with YOLOv8</h1> 
-    <h2>Trained on 5500+ Custom Images</h2>
+    <h2>Trained on 5500+ Custom Images</h2
+     <a> <img src="imgs/img.jpeg" alt="banner"></a>
 
 This repository contains a custom-trained YOLOv8 object detection model, built specifically for high-precision detection tasks in real-time environments.
     <h3>🔍 Highlights:</h3>
