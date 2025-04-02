@@ -10,21 +10,7 @@
     Unfortunately, none of the <strong>software-based</strong> solutions have worked reliably.</p>
   </div>
 
-  <div class="section"> 
-  <h2> Requirements </h2>
-    <ul>
-      <li> Python 3.8.10 </li>
-      <li> Arduino Leronardo (maybe clone) </li>
-      <li> opencv-python </li>
-      <li> numpy </li>
-      <li> mss </li>
-      <li> pygetwindow </li>
-      <li> keyboard </li>
-      <li> pyserial </li>
-      <li> pywin32 </li>
-      <li> ultralytics </li>
-    </ul>
-  </div>
+
 
   <div class="section">
     <h3>💡 Hardware-Based Solution</h3>
@@ -35,6 +21,22 @@
     </div>
   </div>
 
+  <div class="section"> 
+  <h2> Requirements </h2>
+    <ul>
+      <li> Python 3.8.10 </li>
+      <li> Arduino Leonardo (maybe clone) </li>
+      <li> opencv-python </li>
+      <li> numpy </li>
+      <li> mss </li>
+      <li> pygetwindow </li>
+      <li> keyboard </li>
+      <li> pyserial </li>
+      <li> pywin32 </li>
+      <li> ultralytics </li>
+    </ul>
+  </div>
+  
   <div class="section">
     <h2>📌 What's Next?</h2>
     <ul>
