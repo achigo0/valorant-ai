@@ -24,7 +24,7 @@
   <div class="section"> 
   <h2> Requirements </h2>
     <ul>
-      <li> Python 3.8.10 </li>
+      <li> Python 3.8.10 (not tested in other version)</li>
       <li> Arduino Leonardo (maybe clone) </li>
       <li> opencv-python </li>
       <li> numpy </li>
