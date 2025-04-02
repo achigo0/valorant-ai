@@ -1,4 +1,5 @@
 <html>
+    <h1> ***The detection model has been completed. I am continuing to work on the mouse movements. You can follow the test codes and the process from the process directory.***</h1>
     <h1>🚀 Valorant-AI | Real-time Object Detection with YOLOv8</h1> 
     <h2>Trained on 5500+ Custom Images</h2
      <a> <img src="imgs/img.jpeg" alt="banner"></a>
