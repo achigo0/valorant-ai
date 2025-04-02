@@ -13,7 +13,7 @@
   <div class="section"> 
   <h2> Requirements </h2>
     <ul>
-      <li> Pthon 3.8.10 </li>
+      <li> Python 3.8.10 </li>
       <li> Arduino Leronardo (maybe clone) </li>
       <li> opencv-python </li>
       <li> numpy </li>
